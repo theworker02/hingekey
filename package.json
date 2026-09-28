@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/hingekey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hinge host/key network string helpers for config audits.",
+  "bin": {
+    "hingekey": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/hingekey.git"
+  },
+  "homepage": "https://theworker02.github.io/hingekey/",
+  "keywords": [
+    "hinge",
+    "key",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
